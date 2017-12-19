@@ -1,2 +1,2 @@
 # gittest
-just to learn how to use git
+hey it is just to learn how to use git
